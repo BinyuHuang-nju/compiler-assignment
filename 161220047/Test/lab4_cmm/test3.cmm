@@ -1,0 +1,13 @@
+int a()
+{
+	int ab = 0;
+	int ii= ab;
+	return 0;
+}
+int main()
+{
+	int i;
+	i = read();
+	write(2);
+	return 0;
+}

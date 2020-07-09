@@ -1,0 +1,5 @@
+int main()
+{
+	struct Position pos;
+	return 0;
+}
